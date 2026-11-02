@@ -1,2 +1,7 @@
-# Solution-donations
-Public donor leaderboard for FunPay Solution.
+# Поддержавшие FunPay Solution
+
+Обновлено: 2026-11-02T13:42:00.439Z. Условный курс рейтинга: 100 Stars = $1.
+
+| Место | Вклад, $экв. | Ник | Пожелание |
+| --- | ---: | --- | --- |
+
